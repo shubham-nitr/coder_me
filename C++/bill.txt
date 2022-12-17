@@ -1,12 +1,9 @@
-Name : Shubham Kumar
-Mobile number : 990*******
+Name : Your name
+Mobile number : your_number
 
-12 X 3 = 36
-20 X 4 = 80
-45 X 8 = 360
-54 X 1 = 54
-20 X 3 = 60
+200 X 8 = 1600
+120 X 1 = 120
 
 
-You have to pay 590
+You have to pay 1720
 Thanks for visiting.
